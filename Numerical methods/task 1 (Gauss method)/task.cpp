@@ -62,7 +62,7 @@ public:
     }
 
 private:
-    float *A; // Матрица А
+    float *A; // Матрица А 
     float *b; // Правая часть уравнения Ax = b
     const int n = 2000; // Порядок матрицы А
     const int numberInGroup = 6; // Номер в списке группы
