@@ -5,7 +5,7 @@
 class LinearSystemSolver
 {
 public:
-    LinearSystemSolver() : n(0) {}
+    LinearSystemSolver() : n(0) {} 
 
     friend std::istream& operator>>(std::istream& in, LinearSystemSolver& a)
     {
