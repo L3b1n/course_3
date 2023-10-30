@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from keras.models import Sequential
 from keras.layers import Conv2D, MaxPooling2D, Flatten, Dense
-from keras.utils import to_categorical
+from keras.utils import to_categorical 
 
 # Load training data
 data = np.load('data/emnist-byclass-train.npz')
