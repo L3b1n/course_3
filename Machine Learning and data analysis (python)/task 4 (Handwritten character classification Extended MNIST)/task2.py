@@ -1,9 +1,11 @@
+# accuracy 0.87442
+
 import numpy as np
 import keras.applications as applications
 from keras.models import Model
 from keras.layers import Input, Flatten, Dense
 from keras.optimizers import Adam
-from keras.utils import to_categorical
+from keras.utils import to_categorical 
 
 TRAIN_DATA_FILE = 'data/emnist-byclass-train.npz'
 TEST_DATA_FILE = 'data/emnist-byclass-test.npz'
