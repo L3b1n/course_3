@@ -49,7 +49,7 @@ private:
     std::vector<float> x;
     std::vector<float> b;
     static constexpr int m = 6;
-    static constexpr int n = 10;
+    static constexpr int n = 10; 
     std::vector<float> startPlan;
     std::vector<std::vector<float>> A;
     static constexpr float maxIter = 1000.0;
