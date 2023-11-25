@@ -63,7 +63,7 @@ class Application:
             opened_image = cv2.morphologyEx(image, cv2.MORPH_OPEN, kernel)
             closed_image = cv2.morphologyEx(image, cv2.MORPH_CLOSE, kernel)
 
-            # Blurring images
+            # Blurring images 
             blurred_image = cv2.blur(image, (ksize, ksize))
 
             median_image = cv2.medianBlur(image, ksize)
