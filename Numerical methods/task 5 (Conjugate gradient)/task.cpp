@@ -111,7 +111,7 @@ private:
         std::vector<double> r = b;
         std::vector<double> d = r;
         double rr = dotProduct(r, r);
-        int max_iter = 50;
+        int max_iter = 500;
 
         for(int i = 0; i < max_iter; ++i) {
             std::vector<double> Ad = matrixVectorProduct(d);
