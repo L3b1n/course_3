@@ -1,0 +1,1518 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.14.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_53373</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>60</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_53373</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>60</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1853088208|gb|CP054431.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain CH2_mutant_L2/434/Bu(i) plasmid unnamed</Hit_def>
+  <Hit_accession>CP054431</Hit_accession>
+  <Hit_len>7676</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>6494</Hsp_hit-from>
+      <Hsp_hit-to>6435</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1853087206|gb|CP054433.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain CH1_mutant_L2/434/Bu(i) plasmid unnamed</Hit_def>
+  <Hit_accession>CP054433</Hit_accession>
+  <Hit_len>7676</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>4290</Hsp_hit-from>
+      <Hsp_hit-to>4231</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1853086301|gb|CP054429.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain CH3_mutant_L2/434/Bu(i) plasmid unnamed</Hit_def>
+  <Hit_accession>CP054429</Hit_accession>
+  <Hit_len>7676</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>4290</Hsp_hit-from>
+      <Hsp_hit-to>4231</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1853085398|gb|CP054427.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain CH5_mutant_L2/434/Bu(i) plasmid unnamed</Hit_def>
+  <Hit_accession>CP054427</Hit_accession>
+  <Hit_len>7676</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1781</Hsp_hit-from>
+      <Hsp_hit-to>1840</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1834305694|gb|MT241513.1|</Hit_id>
+  <Hit_def>Cloning vector pREF100, complete sequence</Hit_def>
+  <Hit_accession>MT241513</Hit_accession>
+  <Hit_len>11748</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>7527</Hsp_hit-from>
+      <Hsp_hit-to>7468</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>47.2722</Hsp_bit-score>
+      <Hsp_score>51</Hsp_score>
+      <Hsp_evalue>0.306546</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>28</Hsp_query-to>
+      <Hsp_hit-from>28</Hsp_hit-from>
+      <Hsp_hit-to>1</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>28</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|2317634782|gb|CP106986.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain L2f plasmid p7Kb, complete sequence</Hit_def>
+  <Hit_accession>CP106986</Hit_accession>
+  <Hit_len>7500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>874</Hsp_hit-from>
+      <Hsp_hit-to>815</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|575868421|gb|KF790910.1|</Hit_id>
+  <Hit_def>Cloning vector pBOMB4-Tet-mCherry, complete sequence</Hit_def>
+  <Hit_accession>KF790910</Hit_accession>
+  <Hit_len>12003</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>7527</Hsp_hit-from>
+      <Hsp_hit-to>7468</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>47.2722</Hsp_bit-score>
+      <Hsp_score>51</Hsp_score>
+      <Hsp_evalue>0.306546</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>28</Hsp_query-to>
+      <Hsp_hit-from>28</Hsp_hit-from>
+      <Hsp_hit-to>1</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>28</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|575868419|gb|KF790909.1|</Hit_id>
+  <Hit_def>Cloning vector pBOMB4R-MCI, complete sequence</Hit_def>
+  <Hit_accession>KF790909</Hit_accession>
+  <Hit_len>10768</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>7525</Hsp_hit-from>
+      <Hsp_hit-to>7466</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|575868417|gb|KF790908.1|</Hit_id>
+  <Hit_def>Cloning vector pBOMB4R, complete sequence</Hit_def>
+  <Hit_accession>KF790908</Hit_accession>
+  <Hit_len>10755</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>7525</Hsp_hit-from>
+      <Hsp_hit-to>7466</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|575868414|gb|KF790907.1|</Hit_id>
+  <Hit_def>Cloning vector pBOMB4-MCI, complete sequence</Hit_def>
+  <Hit_accession>KF790907</Hit_accession>
+  <Hit_len>10575</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>7527</Hsp_hit-from>
+      <Hsp_hit-to>7468</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>47.2722</Hsp_bit-score>
+      <Hsp_score>51</Hsp_score>
+      <Hsp_evalue>0.306546</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>28</Hsp_query-to>
+      <Hsp_hit-from>28</Hsp_hit-from>
+      <Hsp_hit-to>1</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>28</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|575868410|gb|KF790906.1|</Hit_id>
+  <Hit_def>Cloning vector pBOMB4, complete sequence</Hit_def>
+  <Hit_accession>KF790906</Hit_accession>
+  <Hit_len>10556</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>7527</Hsp_hit-from>
+      <Hsp_hit-to>7468</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>47.2722</Hsp_bit-score>
+      <Hsp_score>51</Hsp_score>
+      <Hsp_evalue>0.306546</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>28</Hsp_query-to>
+      <Hsp_hit-from>28</Hsp_hit-from>
+      <Hsp_hit-to>1</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>28</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|380252486|emb|HE603228.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis L3/404/LN plasmid pL3404 complete sequence</Hit_def>
+  <Hit_accession>HE603228</Hit_accession>
+  <Hit_len>7415</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1021</Hsp_hit-from>
+      <Hsp_hit-to>1080</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|380251597|emb|HE603227.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis L2b/UCH-2 plasmid pL2bUCH2 complete sequence</Hit_def>
+  <Hit_accession>HE603227</Hit_accession>
+  <Hit_len>7473</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1079</Hsp_hit-from>
+      <Hsp_hit-to>1138</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|380251588|emb|HE603226.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis L2b/LST plasmid pL2bLST complete sequence</Hit_def>
+  <Hit_accession>HE603226</Hit_accession>
+  <Hit_len>7500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|380251534|emb|HE603220.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis L1/224 plasmid pL1224 complete sequence</Hit_def>
+  <Hit_accession>HE603220</Hit_accession>
+  <Hit_len>7500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|380251525|emb|HE603219.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis L1/1322/p2 plasmid pL11322 complete sequence</Hit_def>
+  <Hit_accession>HE603219</Hit_accession>
+  <Hit_len>7500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|380251516|emb|HE603218.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis L1/115 plasmid pL1115 complete sequence</Hit_def>
+  <Hit_accession>HE603218</Hit_accession>
+  <Hit_len>7500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|380251471|emb|HE603213.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis L2b/Ams1 plasmid pAms1 complete sequence &gt;gi|380251480|emb|HE603214.1| Chlamydia trachomatis L2b/Ams2 plasmid pAms2 complete sequence &gt;gi|380251489|emb|HE603215.1| Chlamydia trachomatis L2b/Ams3 plasmid pAms3 complete sequence &gt;gi|380251498|emb|HE603216.1| Chlamydia trachomatis L2b/Ams4 plasmid pAms4 complete sequence &gt;gi|380251507|emb|HE603217.1| Chlamydia trachomatis L2b/Ams5 plasmid pAms5 complete sequence &gt;gi|380251543|emb|HE603221.1| Chlamydia trachomatis L2b/795 plasmid pL2b795 complete sequence &gt;gi|380251552|emb|HE603222.1| Chlamydia trachomatis L2b/8200/07 plasmid pL2b820007 complete sequence &gt;gi|380251561|emb|HE603223.1| Chlamydia trachomatis L2b/Canada1 plasmid pL2bCan1 complete sequence &gt;gi|380251570|emb|HE603224.1| Chlamydia trachomatis L2b/Canada2 plasmid pL2bCan2 complete sequence &gt;gi|380251579|emb|HE603225.1| Chlamydia trachomatis L2b/CV204 plasmid pL2bCV204 complete sequence &gt;gi|806978425|gb|CP009926.1| Chlamydia trachomatis strain L2b/CS784/08 plasmid, complete sequence &gt;gi|806979337|gb|CP009924.1| Chlamydia trachomatis strain L2b/CS19/08 plasmid, complete sequence</Hit_def>
+  <Hit_accession>HE603213</Hit_accession>
+  <Hit_len>7500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|194680626|emb|X06707.3|</Hit_id>
+  <Hit_def>Chlamydia trachomatis cryptic plasmid pLGV440</Hit_def>
+  <Hit_accession>X06707</Hit_accession>
+  <Hit_len>7500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|165931721|emb|AM886279.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis pUCH-1 plasmid</Hit_def>
+  <Hit_accession>AM886279</Hit_accession>
+  <Hit_len>7500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>2067</Hsp_hit-from>
+      <Hsp_hit-to>2008</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|165931711|emb|AM886278.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis pL2 plasmid &gt;gi|478751958|gb|CP003966.1| Chlamydia trachomatis L2/434/Bu(f) plasmid pL2/434/Bu(f), complete sequence &gt;gi|478752900|gb|CP003964.1| Chlamydia trachomatis L2/434/Bu(i) plasmid pL2/434/Bu(i), complete sequence</Hit_def>
+  <Hit_accession>AM886278</Hit_accession>
+  <Hit_len>7499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>5186</Hsp_hit-from>
+      <Hsp_hit-to>5127</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|158322049|gb|EU180727.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis plasmid pCT clone C10-1 ORF7 and ORF8 genes, partial cds &gt;gi|158322052|gb|EU180728.1| Chlamydia trachomatis plasmid pCT clone C10-10 ORF7 and ORF8 genes, partial cds &gt;gi|158322055|gb|EU180729.1| Chlamydia trachomatis plasmid pCT clone C10-3 ORF7 and ORF8 genes, partial cds &gt;gi|158322058|gb|EU180730.1| Chlamydia trachomatis plasmid pCT clone C10-4 ORF7 and ORF8 genes, partial cds &gt;gi|158322061|gb|EU180731.1| Chlamydia trachomatis plasmid pCT clone C10-7 ORF7 and ORF8 genes, partial cds &gt;gi|158322064|gb|EU180732.1| Chlamydia trachomatis plasmid pCT clone C2-3 ORF7 and ORF8 genes, partial cds &gt;gi|158322067|gb|EU180733.1| Chlamydia trachomatis plasmid pCT clone C2-6 ORF7 and ORF8 genes, partial cds &gt;gi|158322070|gb|EU180734.1| Chlamydia trachomatis plasmid pCT clone C4-1 ORF7 and ORF8 genes, partial cds &gt;gi|158322073|gb|EU180735.1| Chlamydia trachomatis plasmid pCT clone C4-4 ORF7 and ORF8 genes, partial cds &gt;gi|158322076|gb|EU180736.1| Chlamydia trachomatis plasmid pCT clone C4-5 ORF7 and ORF8 genes, partial cds &gt;gi|158322079|gb|EU180737.1| Chlamydia trachomatis plasmid pCT clone C4-6 ORF7 and ORF8 genes, partial cds &gt;gi|158322082|gb|EU180738.1| Chlamydia trachomatis plasmid pCT clone C9-12 ORF7 and ORF8 genes, partial cds &gt;gi|158322085|gb|EU180739.1| Chlamydia trachomatis plasmid pCT clone C9-14 ORF7 and ORF8 genes, partial cds &gt;gi|158322088|gb|EU180740.1| Chlamydia trachomatis plasmid pCT clone C9-15 ORF7 and ORF8 genes, partial cds &gt;gi|158322091|gb|EU180741.1| Chlamydia trachomatis plasmid pCT clone C9-3 ORF7 and ORF8 genes, partial cds &gt;gi|158322094|gb|EU180742.1| Chlamydia trachomatis plasmid pCT clone C9-7 ORF7 and ORF8 genes, partial cds &gt;gi|158322097|gb|EU180743.1| Chlamydia trachomatis plasmid pCT clone C9-8 ORF7 and ORF8 genes, partial cds</Hit_def>
+  <Hit_accession>EU180727</Hit_accession>
+  <Hit_len>664</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>225</Hsp_hit-from>
+      <Hsp_hit-to>284</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|40730|emb|X07547.1|</Hit_id>
+  <Hit_def>C. trachomatis plasmid DNA for growth within mammalian cells</Hit_def>
+  <Hit_accession>X07547</Hit_accession>
+  <Hit_len>7499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.488</Hsp_bit-score>
+      <Hsp_score>120</Hsp_score>
+      <Hsp_evalue>3.06275e-20</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>120</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1104541593|gb|CP018053.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain QH111L plasmid pQH111L, complete sequence</Hit_def>
+  <Hit_accession>CP018053</Hit_accession>
+  <Hit_len>7503</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>4544</Hsp_hit-from>
+      <Hsp_hit-to>4485</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|1067108145|gb|CP016427.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain SB013321 plasmid unnamed1, complete sequence</Hit_def>
+  <Hit_accession>CP016427</Hit_accession>
+  <Hit_len>7497</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|1067106305|gb|CP016425.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain SB013112 plasmid unnamed1, complete sequence</Hit_def>
+  <Hit_accession>CP016425</Hit_accession>
+  <Hit_len>7504</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1104</Hsp_hit-from>
+      <Hsp_hit-to>1163</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|1067104939|gb|CP016423.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain SB008107 plasmid unnamed1, complete sequence</Hit_def>
+  <Hit_accession>CP016423</Hit_accession>
+  <Hit_len>7506</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|1067103422|gb|CP016421.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain SB006930 plasmid unnamed1, complete sequence</Hit_def>
+  <Hit_accession>CP016421</Hit_accession>
+  <Hit_len>7506</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|1067102362|gb|CP016419.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain SB002739 plasmid unnamed1, complete sequence</Hit_def>
+  <Hit_accession>CP016419</Hit_accession>
+  <Hit_len>7506</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|1034275911|gb|CP015305.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain E-DK-20 plasmid pCtrEDK20, complete sequence</Hit_def>
+  <Hit_accession>CP015305</Hit_accession>
+  <Hit_len>7502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|1034274076|gb|CP015301.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain E-8873 plasmid pCtrE8873, complete sequence</Hit_def>
+  <Hit_accession>CP015301</Hit_accession>
+  <Hit_len>7493</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|565679406|gb|CP006946.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis C/TW-3 plasmid unnamed, complete sequence</Hit_def>
+  <Hit_accession>CP006946</Hit_accession>
+  <Hit_len>7501</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|380252690|emb|HE603231.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis D/SotonD6 plasmid pSotonD6 complete sequence &gt;gi|380252753|emb|HE603238.1| Chlamydia trachomatis K/SotonK1 plasmid pSotonK1 complete sequence &gt;gi|899745353|gb|CP007132.1| Chlamydia trachomatis D/CS637/11 plasmid unnamed, complete sequence</Hit_def>
+  <Hit_accession>HE603231</Hit_accession>
+  <Hit_len>7493</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|380252726|emb|HE603235.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis G/SotonG1 plasmid pSotonG1 complete sequence &gt;gi|899748098|gb|CP010572.1| Chlamydia trachomatis strain Ia/CS190/96 plasmid, complete sequence</Hit_def>
+  <Hit_accession>HE603235</Hit_accession>
+  <Hit_len>7471</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1084</Hsp_hit-from>
+      <Hsp_hit-to>1143</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|380252681|emb|HE603230.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis D/SotonD5 plasmid pSotonD5 complete sequence</Hit_def>
+  <Hit_accession>HE603230</Hit_accession>
+  <Hit_len>7492</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1105</Hsp_hit-from>
+      <Hsp_hit-to>1164</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|317415982|emb|FM865436.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis plasmid pCTR, strain A2497, serovar A</Hit_def>
+  <Hit_accession>FM865436</Hit_accession>
+  <Hit_len>7480</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1084</Hsp_hit-from>
+      <Hsp_hit-to>1143</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|228007439|emb|FM865442.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis plasmid pSW5, strain Sweden5, serovar F</Hit_def>
+  <Hit_accession>FM865442</Hit_accession>
+  <Hit_len>7471</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1084</Hsp_hit-from>
+      <Hsp_hit-to>1143</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|228007430|emb|FM865441.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis plasmid pSW4, strain Sweden4, serovar F &gt;gi|380252672|emb|HE603229.1| Chlamydia trachomatis D/SotonD1 plasmid pSotonD1 complete sequence &gt;gi|380252717|emb|HE603234.1| Chlamydia trachomatis F/SotonF3 plasmid pSotonF3 complete sequence &gt;gi|1034276824|gb|CP015307.1| Chlamydia trachomatis strain F-6068 plasmid pCtrF6068, complete sequence</Hit_def>
+  <Hit_accession>FM865441</Hit_accession>
+  <Hit_len>7493</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|228007403|emb|FM865438.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis plasmid pJALI, strain Jali20, serovar B</Hit_def>
+  <Hit_accession>FM865438</Hit_accession>
+  <Hit_len>7506</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|228007394|emb|FM865437.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis plasmid pCTB, strain B/TZ1A828/OT, serovar B &gt;gi|380251444|emb|HE603210.1| Chlamydia trachomatis A/5291 plasmid pA5291 complete sequence &gt;gi|380251453|emb|HE603211.1| Chlamydia trachomatis A/7249 plasmid pA7249 complete sequence &gt;gi|383081617|emb|HE603209.2| Chlamydia trachomatis A/363 plasmid pA363 complete sequence</Hit_def>
+  <Hit_accession>FM865437</Hit_accession>
+  <Hit_len>7502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|144462|gb|J03321.1|CH1L1CG</Hit_id>
+  <Hit_def>Chlamydia trachomatis plasmid pCHL1, complete sequence</Hit_def>
+  <Hit_accession>J03321</Hit_accession>
+  <Hit_len>7502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.98</Hsp_bit-score>
+      <Hsp_score>115</Hsp_score>
+      <Hsp_evalue>1.30232e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>461</Hsp_hit-from>
+      <Hsp_hit-to>520</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|347975763|gb|CP002402.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis A2497 plasmid p0001, complete sequence</Hit_def>
+  <Hit_accession>CP002402</Hit_accession>
+  <Hit_len>7480</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.177</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>4.54553e-18</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>7480</Hsp_hit-from>
+      <Hsp_hit-to>7422</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>59</Hsp_align-len>
+      <Hsp_qseq>CTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>CTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|297749001|gb|CP002053.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis D-EC plasmid pCTDEC1, complete sequence &gt;gi|297749881|gb|CP002055.1| Chlamydia trachomatis D-LC plasmid pCTDLC1, complete sequence</Hit_def>
+  <Hit_accession>CP002053</Hit_accession>
+  <Hit_len>7493</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.177</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>4.54553e-18</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>7493</Hsp_hit-from>
+      <Hsp_hit-to>7435</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>59</Hsp_align-len>
+      <Hsp_qseq>CTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>CTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|1034271323|gb|CP015295.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain E-103 plasmid CtrE-103, complete sequence</Hit_def>
+  <Hit_accession>CP015295</Hit_accession>
+  <Hit_len>7502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.472</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>1.58654e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|899747183|gb|CP010570.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain F/CS847/08 plasmid, complete sequence</Hit_def>
+  <Hit_accession>CP010570</Hit_accession>
+  <Hit_len>7493</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.472</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>1.58654e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCATTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||||||||||||||||||||||||||||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|899746270|gb|CP010568.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis strain E/CS1025/11 plasmid, complete sequence</Hit_def>
+  <Hit_accession>CP010568</Hit_accession>
+  <Hit_len>7502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.472</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>1.58654e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|568246878|gb|KF724860.1|</Hit_id>
+  <Hit_def>Transformation vector pGFPBSDZ-SW2, complete sequence</Hit_def>
+  <Hit_accession>KF724860</Hit_accession>
+  <Hit_len>10764</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.472</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>1.58654e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>4324</Hsp_hit-from>
+      <Hsp_hit-to>4383</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|380252735|emb|HE603236.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis Ia/SotonIa1 plasmid pSotonIa1 complete sequence &gt;gi|380252744|emb|HE603237.1| Chlamydia trachomatis Ia/SotonIa3 plasmid pSotonIa3 complete sequence</Hit_def>
+  <Hit_accession>HE603236</Hit_accession>
+  <Hit_len>7500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.472</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>1.58654e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCGTCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||||||||||||||||||| |||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|380252708|emb|HE603233.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis E/SotonE8 plasmid pSotonE8 complete sequence &gt;gi|1034274998|gb|CP015303.1| Chlamydia trachomatis strain E-32931 plasmid pCtrE32931, complete sequence</Hit_def>
+  <Hit_accession>HE603233</Hit_accession>
+  <Hit_len>7502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.472</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>1.58654e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|380252699|emb|HE603232.1|</Hit_id>
+  <Hit_def>Chlamydia trachomatis E/SotonE4 plasmid pSotonE4 complete sequence</Hit_def>
+  <Hit_accession>HE603232</Hit_accession>
+  <Hit_len>7502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.472</Hsp_bit-score>
+      <Hsp_score>110</Hsp_score>
+      <Hsp_evalue>1.58654e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>60</Hsp_query-to>
+      <Hsp_hit-from>1106</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>60</Hsp_align-len>
+      <Hsp_qseq>TCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC</Hsp_qseq>
+      <Hsp_hseq>TCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>93752460</Statistics_db-num>
+      <Statistics_db-len>1430245592</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
