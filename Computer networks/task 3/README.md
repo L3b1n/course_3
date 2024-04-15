@@ -1,1 +1,0 @@
-# Third task of computer networks
