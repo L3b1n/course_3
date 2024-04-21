@@ -1,1 +1,0 @@
-# Fifth task of computer networks
