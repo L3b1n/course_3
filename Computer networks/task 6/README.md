@@ -1,1 +1,0 @@
-# Sixth task of computer networks
