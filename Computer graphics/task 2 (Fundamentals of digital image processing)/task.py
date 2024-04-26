@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import tkinter as tk
 from tkinter import filedialog
-from matplotlib import pyplot as plt 
+from matplotlib import pyplot as plt
 
 class Application: 
     def __init__(self):
