@@ -1,0 +1,5 @@
+node {
+  calculator: "SelfieSegmentationModelLoader"
+  input_side_packet: "MODEL_SELECTION:model_selection"
+  output_side_packet: "MODEL:model"
+}
