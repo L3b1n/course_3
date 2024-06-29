@@ -1,0 +1,6 @@
+syntax = "proto2";
+package mediapipe;
+import "mediapipe/framework/calculator.proto";
+message BackgroundMaskingCalculatorOptions {
+  optional string path_to_background = 1 [default = "background.jpg"];
+}
