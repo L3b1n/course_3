@@ -1,0 +1,10 @@
+node {
+  calculator: "FlowLimiterCalculator"
+  input_stream: "input_video"
+  input_stream: "FINISHED:output_video"
+  input_stream_info: {
+    tag_index: "FINISHED"
+    back_edge: true
+  }
+  output_stream: "throttled_input_video"
+}
