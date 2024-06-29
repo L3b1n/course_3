@@ -1,0 +1,11 @@
+node {
+  calculator: "TensorsToSegmentationCalculator"
+  input_stream: "TENSORS:output_tensors"
+  input_stream: "OUTPUT_SIZE:input_size"
+  output_stream: "MASK:segmentation_mask"
+  options: {
+    [mediapipe.TensorsToSegmentationCalculatorOptions.ext] {
+      activation: NONE
+    }
+  }
+}
