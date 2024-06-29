@@ -1,0 +1,14 @@
+# CPU buffer containing the current frame. (type: ImageFrame)
+input_stream: "input_video"
+
+# CPU buffer containing the background image. (type: ImageFrame)
+input_stream: "input_background"
+
+# Output image with rendered results. (type: ImageFrame)
+output_stream: "output_video"
+
+# Type of effect. (type: int)
+input_side_packet: "TYPE_OF_EFFECT:type_of_effect"
+
+# Type of model. (type: int)
+input_side_packet: "MODEL_SELECTION:model_selection"
