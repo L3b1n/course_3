@@ -1,0 +1,5 @@
+node {
+  calculator: "ImagePropertiesCalculator"
+  input_stream: "IMAGE_CPU:image"
+  output_stream: "SIZE:input_size"
+}
