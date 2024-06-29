@@ -1,0 +1,19 @@
+node {
+  calculator: "SwitchContainer"
+  input_side_packet: "SELECT:type_of_effect"
+  input_stream: "IMAGE_CPU:throttled_input_video"
+  input_stream: "MASK_CPU:temp_mask"
+  input_stream: "BACKGROUND_CPU:input_background"
+  output_stream: "OUTPUT_VIDEO:output_video"
+  options: {
+    [mediapipe.SwitchContainerOptions.ext] {
+      select: 0
+      contained_node: {
+        calculator: "BackgroundMaskingCalculator"
+      }
+      contained_node: {   
+        calculator: "BackgroundBlurringCalculator"
+      }
+    }
+  }
+}
