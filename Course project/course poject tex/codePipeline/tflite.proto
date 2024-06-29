@@ -1,0 +1,4 @@
+node {
+  calculator: "TfLiteCustomOpResolverCalculator"
+  output_side_packet: "OP_RESOLVER:op_resolver"
+}
