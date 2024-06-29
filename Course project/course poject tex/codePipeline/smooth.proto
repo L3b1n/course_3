@@ -1,0 +1,11 @@
+node {
+  calculator: "SegmentationSmoothingCalculator"
+  input_stream: "MASK:segmentation_mask"
+  input_stream: "MASK_PREVIOUS:prev_filtered_segmentation_mask"
+  output_stream: "MASK_SMOOTHED:filtered_segmentation_mask"
+  node_options {
+    [type.googleapis.com/mediapipe.SegmentationSmoothingCalculatorOptions] {
+      combine_with_previous_ratio: 0.7
+    }
+  }
+}
