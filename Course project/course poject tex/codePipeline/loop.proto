@@ -1,0 +1,10 @@
+node {
+  calculator: "PreviousLoopbackCalculator"
+  input_stream: "MAIN:segmentation_mask"   # Tick signal
+  input_stream: "LOOP:filtered_segmentation_mask"
+  input_stream_info: {
+    tag_index: "LOOP"
+    back_edge: true
+  }
+  output_stream: "PREV_LOOP:prev_filtered_segmentation_mask"
+}
