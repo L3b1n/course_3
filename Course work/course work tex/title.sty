@@ -1,0 +1,64 @@
+\newcommand*{\mentor}[1]{\gdef\@mentor{#1}}
+\newcommand*{\@mentor}{}
+
+\newcommand*{\subfaculty}[1]{\gdef\@subfaculty{#1}}
+\newcommand*{\@subfaculty}{}
+
+\newcommand*{\reviewer}[1]{\gdef\@reviewer{#1}}
+\newcommand*{\@reviewer}{}
+
+
+\renewcommand{\maketitle}
+{
+\begin{titlepage}
+  \begin{center}
+  \textbf{
+    \small{МИНИСТЕРСТВО ОБРАЗОВАНИЯ РЕСПУБЛИКИ БЕЛАРУСЬ}\\
+    \vspace{0.5em}
+    \small{БЕЛОРУССКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ}\\
+    \vspace{0.5em}
+    \small{ФАКУЛЬТЕТ ПРИКЛАДНОЙ МАТЕМАТИКИ И ИНФОРМАТИКИ}\\
+    \vspace{0.5em}
+    \small{Кафедра дискретной математики и алгоритмики}\\
+    \@subfaculty
+  }
+  \end{center}
+  
+  \vspace{5em}
+  
+  \begin{center}
+    \textbf{\@title} \\
+    \vspace{2em}
+    Курсовая работа
+  \end{center}
+  
+  \vspace{5em}
+  
+  \begin{flushright}
+    \begin{minipage}[H]{0.55\textwidth}
+      \begin{flushright}
+        \@author\\
+        студента 3 курса\\
+        специальность «информатика»
+      \end{flushright}
+    \end{minipage}
+  \end{flushright}
+
+  \vspace{2.5em}
+  
+  \begin{flushright}
+    \begin{minipage}[H]{0.40\textwidth}
+      \begin{flushleft}
+        \textbf{Научный руководитель:}
+        \@mentor
+      \end{flushleft}
+    \end{minipage}
+  \end{flushright}
+
+  \vspace{10em}
+  
+  \begin{center}
+    Минск, \the\year
+  \end{center}
+\end{titlepage}
+}
